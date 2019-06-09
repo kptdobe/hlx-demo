@@ -2,6 +2,4 @@
 
 # Hello world
 
-This is my super cool website.
-
-1
+This is my super cool website. 2
